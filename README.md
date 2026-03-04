@@ -1,3 +1,8 @@
+## 📚 Sobre este projeto
+Este projeto faz parte da minha jornada de aprendizado em Python.
+O objetivo foi praticar automação de tarefas utilizando Python, simulando o cadastro automático de produtos em um sistema a partir de uma base de dados CSV.
+Ainda estou evoluindo na linguagem, e este repositório serve como registro prático do que estou aprendendo ao longo dos estudos.
+
 Automação de Cadastro de Produtos com Python
 📌 Descrição do Projeto
 Este projeto tem como objetivo automatizar o cadastro de produtos em um sistema web utilizando Python.
